@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a3f012d43cecb57c543225a05d9749c361d3e6d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Projects/ADT/bad/speech_to_text/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4600d7e9440892bc1f821b5a1a714b43b1a5d2db">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1fca6b030931a2439cec36a1ad2acc27521e4e9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Projects/ADT/bad/speech_to_text/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f5716852d8ae96b70ae8b0ff2e6d68d910c54486/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/001ab9f95c11b6132a1eb111a39d24a884a3f8fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c1c0f339790f90fe40d88e753f4a52dcb6475dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_42a1ebc97ea241bf101fc71a19241367aadc757c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/eb192ccf8ca73506265ddd63569158c33be01549/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77587f945dc112322286a7d977d3fe7de3f941c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/5be5ae62edeb6f84edc13a80d2a136e97b043235/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d0fc5a5fde22a1e6a0ff5fd74d1d4fc95a1fef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/051242fa4bde8a1fda1e1e53fb522310cd441ead/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7e996ce5696278353358cfe6e8c0a0e36f7deda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/42970dcb7b1480e756defa951c0e57079a9eccbf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73110298a7bfd7c509bcf9d577e21ae355879d6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/73adf48ec570b67da075a73c0b1c275f9edb4c27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98ce88f320e8fa50498764c6147f635bd0aac44b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/839421ccd6575aa3a29bb362fda3edc80afbf907/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79abde5b585ab65bf461e0349a14b25dc71923e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/05371be078f4799a41fa301f49808c5b62265da3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e78ab6846792362dd522a0735b28309ef0ef4e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/a3b531b1065b72a5538c53f64b6ac6549dfd9a2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a39ad63c39a6138934e171b04e3b3c95eaf4d7f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pc2/.android/build-cache/42fced7da43146e4436664d4ba8c3cae254799e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Projects/ADT/bad/speech_to_text/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc561ca8d5d40212f10a66ed5ece281241cec0e3/classes.dex" />
+    </item>
+
+</items>
